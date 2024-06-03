@@ -1,1 +1,1 @@
-fastapi==0.81
+fastapi==0.82
